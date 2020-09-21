@@ -1,6 +1,6 @@
 # digits_classification_app
 
-#Required Files
-1 setup.sh
-2 Procfile
-3 requirements.txt
+#Required Files<br>
+1 setup.sh<br>
+2 Procfile<br>
+3 requirements.txt<br>
